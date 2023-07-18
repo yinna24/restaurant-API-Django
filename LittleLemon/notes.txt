@@ -1,0 +1,34 @@
+List of users created and their details 
+
+SUPER USER/ Admin Account
+
+Username: admin
+Email: admin@littlelemon.com
+Password: lemon@123!
+
+Manager Group
+
+Username: Adrian
+Email: adrian@littlelemon.com
+Password: lemon@adr!
+
+Username: admin
+Email: admin@littlelemon.com
+Password: lemon@123!
+
+Delivery-Crew Group
+
+Username: Mario
+Email: mario@littlelemon.com
+Password: lemon@mar!
+
+Username: Sana
+Email: sana@littlelemon.com
+Password: lemon@san!
+
+Other Users/Customers
+
+Username: Silver
+Email: silver@littlelemon.com
+Password: lemon@sil!
+
